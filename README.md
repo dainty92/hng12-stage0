@@ -16,7 +16,7 @@ You can access the deployed API here:
 ##  Setup Instructions  
 To run this project locally, follow these steps:
 
-### 1️. Clone the Repository  
+### 1. Clone the Repository  
 ```sh
 git clone https://github.com/dainty92/hng12-stage0.git
 cd hng12-stage0
