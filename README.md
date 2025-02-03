@@ -24,16 +24,19 @@ cd hng12-stage0
 ### 2. Install Dependencies
 ```sh
 npm install
+```
 
 ### 3. Start the server
 ```sh
 node app.js
+```
 
 ##  API Documentation
 
 ### Endpoint URL
 ```sh
 GET https://hng12-stage0-xvnk.onrender.com/
+```
 
 ### Response Format
 ```json
@@ -42,6 +45,7 @@ GET https://hng12-stage0-xvnk.onrender.com/
   "current_datetime": "2025-01-30T15:13:00Z",
   "github_url": "https://github.com/dainty92/hng12-stage0"
 }
+```
 
 ## Backlinks
 https://hng.tech/hire/nodejs-developers
